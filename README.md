@@ -1,0 +1,1 @@
+This is a project aimed at practicing Git, Git commits, and HTML
